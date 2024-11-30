@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://prof.um.ac.ir/m.amintoosi/about.html'>Faculty of Mathematical Sciences</a>. Ferdowsi University of Mashhad.
 
 profile:
   align: right
