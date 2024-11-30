@@ -6,20 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mAmintoosi_1400.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Phone: +98 3880 5678</p>
+    <p>Room No. 716</p>
+    <p>Faculty of Mathematical Sciences</p>
+    <p>Ferdowsi Univ. of Mashhad Mashhad, IRAN</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mahmood Amintoosi is an Associate Professor of Computer Science at Ferdowsi University of Mashhad. With a career starting in 2000, his research interests include Machine Learning, Deep Learning, Computer Vision, and Combinatorial Optimization. He holds a BSc in Mathematics (Computer Science) and an MSc in Computer Engineering (Software Engineering) from Ferdowsi University of Mashhad.
+After teaching at Hakim Sabzevari University, Mahmood earned his PhD in Artificial Intelligence from Iran University of Science and Technology. He returned to Sabzevar University before joining Ferdowsi University in 2023. Mahmood has about 85 peer-reviewed publications in journals and conferences.  He was previously a member of IEEE and ACM. He is also a founding board member of the [Artificial Intelligence Association of Iran](http://www.iranAIAI.ir/) and a member of the [Iranian Society of Machine Vision and Image Processing](http://www.ismvip.ir/). Mahmood is proficient in Python, C++, MATLAB and LaTeX and a co-founder of [ParsiLaTeX group](http://www.parsilatex.com and [GTA-Lab](https://gta-lab.github.io/people/) at FUM.

@@ -2,11 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of our cool projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 <!-- pages/projects.md -->
