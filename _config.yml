@@ -226,9 +226,6 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_data"]
-exclude:
-  - cv.yml
 include: ["_pages"]
 exclude:
   - bin/
