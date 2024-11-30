@@ -10,6 +10,13 @@ github_repos:
   - mamintoosi/tree-detection
   - mamintoosi/MMM-Artistic-photoes
   - mamintoosi/mkdocs-base
+  - mamintoosi/mamintoosi.github.io
+  - mamintoosi/Deepwalk-HPP
+  - mamintoosi/CV
+  - mamintoosi/TGCN-GSL
+  - mamintoosi/FS-in-Bio-Graphs
+  - mamintoosi/HSU-Thesis
+  - mamintoosi/CNN-pruning-using-Taylor-expansion
   - cs-um/curr
   - fumcs/fumcs.github.io
   - fum-cs/fum-cs.github.io
@@ -21,3 +28,11 @@ github_repos:
   - fum-cs/fds
   - fum-cs/neural-networks
   - fum-cs/modern-cpp
+  - fum-cs/dl-fall-2023
+  - fum-cs/mfds
+  - fum-cs/fum-cs.github.io
+  - fumcs/fumcs.github.io
+  - gta-lab/gta-lab.github.io
+  - gta-lab/GNN-workshop
+  - gta-lab/graph-neural-networks
+
