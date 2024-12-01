@@ -7,11 +7,11 @@ related_posts: false
 ---
 
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/news/GNN-workshop-dsas3.jpg" title="Style Transfer" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 
 
 I am delighted to announce that I, [Mahmood Amintoosi](https://mamintoosi.github.io/), a member of the [GTA-Lab](https://gta-lab.github.io/), will be presenting a [workshop on Graph Neural Networks](https://gta-lab.github.io/GNN-workshop/) at the Faculty of Mathematical Sciences, FUM. Join me on Wednesday, December 11, 2024 (21th Azar), from 14:00 to 16:00, as I introduce Graph Neural Networks and share valuable insights tailored for researchers and practitioners.
