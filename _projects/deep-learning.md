@@ -5,7 +5,7 @@ description: Neural Networks and Deep Learning
 img: assets/img/tree.jpg
 importance: 3
 category: work
-related_publications: ST_for_DA_2022, FC2FC_2022, Farhadi2022, Reg-OBD-Corona-Detection, GCN-JAC2021, Farhadi2019, Monsefi02agenetic, TaylorExpansion_in_CNN_prunning99
+related_publications: true
 tags: Deep-Learning
 ---
 
@@ -20,3 +20,5 @@ Deep learning is a subfield of artificial intelligence (AI) that focuses on trai
 - Speech Recognition: Deep learning-based models like recurrent neural networks, particularly long short-term memory (LSTM), have significantly advanced automatic speech recognition systems. With the power of deep learning, speech recognition technology has become more accurate, enabling applications like voice assistants, transcription services, and real-time language translation.
 
 Deep learning continues to play a transformative role in computer science, enabling computers to perform intricate tasks that were previously considered challenging for machines. As research and advancements in deep learning continue to progress, the scope for its applications in various domains is expanding, leading to significant breakthroughs in AI.
+
+{% reference  ST_for_DA_2022  FC2FC_2022  Farhadi2022  Reg-OBD-Corona-Detection  GCN-JAC2021  Farhadi2019  Monsefi02agenetic  TaylorExpansion_in_CNN_prunning99  %}

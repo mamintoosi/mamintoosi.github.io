@@ -5,7 +5,7 @@ description: Combinatorial optimization as a major domain of CS
 img: assets/img/tiling.png
 importance: 1
 category: work
-related_publications: Amintoosi2023FS-bio-math, ModifiedGA-iranaict99, Ezzati99, Monsefi02agenetic, Amintoosi04fuzzy, Amintoosi04using, Amintoosi05feature, Amintoosi07using, Amintoosi07afishschool,Monsefi00agenetic, Amintoosi79-NP-Hard,Amintoosi04optimum, Ezzati98-TSCO-GD,Hokmabadi96Coco,Ezzati96graph,Shahi93UFLP, Hoseini93mincutSA,Rezazadeh93hub,
+related_publications: true
 ---
 
 Combinatorial optimization is a field within computer science that focuses on finding the optimal solution among a finite set of possibilities. It involves solving complex problems by determining the best combination of variables to achieve an objective. Some examples of combinatorial optimization problems include:
@@ -27,3 +27,5 @@ Combinatorial optimization is a field within computer science that focuses on fi
 These examples highlight the broad range of applications and complexity involved in combinatorial optimization, making it an important area of study within computer science.
 
 The [Optimization Lab](https://umoplab.github.io/) at Math Faculty and many publications of the members are related to this topic.
+
+{% reference  Amintoosi2023FS-bio-math  ModifiedGA-iranaict99  Ezzati99  Monsefi02agenetic  Amintoosi04fuzzy  Amintoosi04using  Amintoosi05feature  Amintoosi07using  Amintoosi07afishschool Monsefi00agenetic  Amintoosi79-NP-Hard Amintoosi04optimum  Ezzati98-TSCO-GD Hokmabadi96Coco Ezzati96graph Shahi93UFLP  Hoseini93mincutSA Rezazadeh93hub  %}
