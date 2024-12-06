@@ -11,6 +11,7 @@ nav_order: 6
 - [Computer Workshop II](https://fum-cs.github.io/cw2/), Fall 2023
 - [Deep Learning Course](https://fum-cs.github.io/dl/)
 - [Foundations of Data Science](https://fum-cs.github.io/fds/), Fall 2023
+- [Mathematical Foundations of Data Science](https://fum-cs.github.io/mfds/), Fall 2024
 - [Learning Theory](https://fum-cs.github.io/learning-theory/), Spring 2024
   - [Neural Networks](https://fum-cs.github.io/neural-networks/)
   - [Machine Learning](https://fum-cs.github.io/machine-learning/)
