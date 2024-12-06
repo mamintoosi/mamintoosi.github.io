@@ -7,9 +7,7 @@ importance: 2
 category: work
 giscus_comments: true
 related_publications: true
-
 ---
-
 
 Computer vision is a branch of artificial intelligence and computer science that focuses on enabling computers to interpret and understand visual data from the environment. It involves developing algorithms and techniques to extract information from images or videos, mimicking human visual perception capabilities. Computer vision finds application in various domains such as robotics, autonomous vehicles, surveillance systems, medical imaging, and more. Some notable examples of computer vision include:
 
