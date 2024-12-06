@@ -28,4 +28,4 @@ These examples highlight the broad range of applications and complexity involved
 
 The [Optimization Lab](https://umoplab.github.io/) at Math Faculty and many publications of the members are related to this topic.
 
-{% reference  Amintoosi2023FS-bio-math  ModifiedGA-iranaict99  Ezzati99  Monsefi02agenetic  Amintoosi04fuzzy  Amintoosi04using  Amintoosi05feature  Amintoosi07using  Amintoosi07afishschool Monsefi00agenetic  Amintoosi79-NP-Hard Amintoosi04optimum  Ezzati98-TSCO-GD Hokmabadi96Coco Ezzati96graph Shahi93UFLP  Hoseini93mincutSA Rezazadeh93hub  %}
+{% cite Amintoosi2023FS-bio-math  ModifiedGA-iranaict99  Ezzati99  Monsefi02agenetic  Amintoosi04fuzzy  Amintoosi04using  Amintoosi05feature  Amintoosi07using  Amintoosi07afishschool Monsefi00agenetic  Amintoosi79-NP-Hard Amintoosi04optimum  Ezzati98-TSCO-GD Hokmabadi96Coco Ezzati96graph Shahi93UFLP  Hoseini93mincutSA Rezazadeh93hub  %}

@@ -21,4 +21,4 @@ Deep learning is a subfield of artificial intelligence (AI) that focuses on trai
 
 Deep learning continues to play a transformative role in computer science, enabling computers to perform intricate tasks that were previously considered challenging for machines. As research and advancements in deep learning continue to progress, the scope for its applications in various domains is expanding, leading to significant breakthroughs in AI.
 
-{% reference  ST_for_DA_2022  FC2FC_2022  Farhadi2022  Reg-OBD-Corona-Detection  GCN-JAC2021  Farhadi2019  Monsefi02agenetic  TaylorExpansion_in_CNN_prunning99  %}
+{% cite ST_for_DA_2022 FC2FC_2022 Farhadi2022  Reg-OBD-Corona-Detection GCN-JAC2021 Farhadi2019  Monsefi02agenetic TaylorExpansion_in_CNN_prunning99  %}

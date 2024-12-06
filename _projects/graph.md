@@ -20,4 +20,4 @@ Graphs have many applications in different domains of computer science, such as:
 
 Here, we will share some of our works in the area of graph theory and its applications. We will show how graphs can help us understand and solve various problems in computer science. We hope you will find these works interesting and useful.
 
-{% reference  GSL-TF1403aimc55  Amintoosi2023GFS-COAM  Amintoosi2023FS-bio-math  GCN-JAC2021  ModifiedGA-iranaict99  Ezzati99  Hosseini98-TSCO-Karger Ezzati98-TSCO-GD Nemati96GA  Amintoosi94spectral  Ezzati96graph  Hoseini93mincutTS  Amintoosi09regional  %}
+{% cite GSL-TF1403aimc55  Amintoosi2023GFS-COAM  Amintoosi2023FS-bio-math  GCN-JAC2021  ModifiedGA-iranaict99  Ezzati99  Hosseini98-TSCO-Karger Ezzati98-TSCO-GD Nemati96GA  Amintoosi94spectral  Ezzati96graph  Hoseini93mincutTS  Amintoosi09regional  %}

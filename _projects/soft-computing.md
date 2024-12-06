@@ -26,4 +26,4 @@ Here, we will share some of our previous works in the area of soft computing and
 
 Fish school photo is from [https://www.oceandimensions.com/shoal-or-school/](https://www.oceandimensions.com/shoal-or-school/).
 
-{% reference Amintoosi04fuzzy ModifiedGA-iranaict99 Ezzati99 Hoseini93mincutSA Hoseini93mincutTS Rezazadeh93hub Monsefi00agenetic Amintoosi07afishschool Amintoosi07using Amintoosi05feature  Monsefi02agenetic  Monsefi00agenetic  Amintoosi04optimum  Farhadi95ANN Amintoosi96IPRIA-ELM KeykhosraviMLP98 Hadavifar2018SA Nejadkoorki Farhadi2019 Moghimi92MRIPCNN  %}
+{% cite Amintoosi04fuzzy ModifiedGA-iranaict99 Ezzati99 Hoseini93mincutSA Hoseini93mincutTS Rezazadeh93hub Monsefi00agenetic Amintoosi07afishschool Amintoosi07using Amintoosi05feature  Monsefi02agenetic  Monsefi00agenetic  Amintoosi04optimum  Farhadi95ANN Amintoosi96IPRIA-ELM KeykhosraviMLP98 Hadavifar2018SA Nejadkoorki Farhadi2019 Moghimi92MRIPCNN  %}
