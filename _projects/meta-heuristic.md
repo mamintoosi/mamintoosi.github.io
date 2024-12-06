@@ -5,7 +5,7 @@ description: A Powerful Approach for Optimization Problems
 img: assets/img/meta.png
 importance: 5
 category: work
-related_publications: ModifiedGA-iranaict99,Ezzati99,Ezzati98-TSCO-GD,Nemati96GA,Amintoosi94spectral,Shahi93UFLP,Hoseini93mincutSA,Hoseini93mincutTS,Rezazadeh93hub,Amintoosi04optimum,Monsefi00agenetic,Amintoosi07afishschool,Amintoosi07using,Amintoosi05feature, Monsefi02agenetic
+related_publications: true
 ---
 
 Optimization problems are problems that involve finding the best solution from a set of possible solutions, according to some criteria or objective function. Optimization problems are ubiquitous in computer science, such as scheduling, routing, clustering, machine learning, and more.
@@ -21,3 +21,5 @@ Meta-heuristic algorithms are inspired by various sources, such as nature, physi
 - Tabu search (TS): Inspired by the concept of tabu or forbidden in human culture, TS works by keeping track of a list of recently visited solutions that are prohibited from being revisited. This helps to avoid getting stuck in local optima and explore new regions of the search space.
 
 Here, we will share some of our works in the area of meta-heuristic algorithms and their applications. We will show how meta-heuristic algorithms can help us solve various optimization problems in computer science. We hope you will find these works interesting and useful.
+
+{% cite ModifiedGA-iranaict99 Ezzati99 Ezzati98-TSCO-GD Nemati96GA Amintoosi94spectral Shahi93UFLP Hoseini93mincutSA Hoseini93mincutTS Rezazadeh93hub Amintoosi04optimum Monsefi00agenetic Amintoosi07afishschool Amintoosi07using Amintoosi05feature  Monsefi02agenetic  %}
