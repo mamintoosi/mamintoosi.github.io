@@ -345,8 +345,7 @@ enable_publication_badges:
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [
+filtered_bibtex_keywords: [
     abbr,
     abstract,
     additional_info,
