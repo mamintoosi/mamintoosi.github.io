@@ -14,6 +14,9 @@ children:
   - title: Presentations
     permalink: /presentations/
   - title: divider
+  - title: Graduated Students
+    permalink: /grads/
+  - title: divider
   - title: Laboratories
     permalink: /labs/
 ---
