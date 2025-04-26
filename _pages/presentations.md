@@ -10,7 +10,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 
 <ul>
  <li> <a href="https://fum-cs.github.io/jupyter-book-tutorial/">Jupyter-book Tutorial</a>, by M. Amintoosi, April 2025</li>
- <li> <a href="https://gta-lab.github.io/GNN-workshop/">Workshop of Graph Neural Networks</a>, by M. Amintoosi, Dec 2025</li>
+ <li> <a href="https://gta-lab.github.io/GNN-workshop/">Workshop of Graph Neural Networks</a>, by M. Amintoosi, Dec 2024</li>
  <li> <a href="https://mamintoosi-cs.github.io/slides/topics/DLX/DLX.html">Algorithm X, Dancing Links & Combinatorial Optimization</a>, by M. Amintoosi, Oct 2023</li>
  <li> <a href="https://mamintoosi-cs.github.io/slides/topics/GNN/GNN-2022.html">Introducing Graph Neural Networks</a>, by M. Amintoosi, Dec 2022</li>
  <li> <a href="https://mamintoosi-cs.github.io/slides/topics/DL-HSU/DeepLearning-Workshop-ESLA2022.html">Deep Learning with Pytorch</a>, by M. Amintoosi, Feb 2022</li>
