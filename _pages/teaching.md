@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-- [Data Mining](https://fum-cs.github.io/data-minig/), Spring 2025
+- [Data Mining](https://fum-cs.github.io/data-mining/), Spring 2025
 - [Advanced Programming](https://fum-cs.github.io/AdvProg-CPP/), Spring 2025
   - [Advanced Programming](https://fum-cs.github.io/modern-cpp/)
   - [C++ for Python Programmers](https://fum-cs.github.io/cpp4python/)
