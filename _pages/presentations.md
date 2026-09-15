@@ -9,8 +9,8 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 ---
 
 <ul>
+ <li> <a href="https://mamintoosi-cs.github.io/slides/topics/intro-to-cs/">Intro to CS</a>, by M. Amintoosi, September 2026</li>
  <li> <a href="https://mamintoosi-cs.github.io/Research-In-AI-Age/">Research in the AI Age</a>, by M. Amintoosi, December 2025</li>
- <li> <a href="https://mamintoosi-cs.github.io/slides/topics/intro-to-cs/">Intro to CS</a>, by M. Amintoosi, November 2025</li>
  <li> <a href="https://1drv.ms/p/c/31166a0f5c94f268/EWjylFwPahYggDGCUwAAAAAB8JI2ARAES9QukZKKiM_EHw?e=qsdToe">Neural Style Transfer</a>, by M. Amintoosi, October 2025</li>
  <li> <a href="https://fum-cs.github.io/jupyter-book-tutorial/">Jupyter-book Tutorial</a>, by M. Amintoosi, April 2025</li>
  <li> <a href="https://gta-lab.github.io/GNN-workshop/">Workshop of Graph Neural Networks</a>, by M. Amintoosi, Dec 2024</li>
