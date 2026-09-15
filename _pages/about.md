@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone: +98 3880 5678</p>
-    <p>Room No. 716</p>
+    <p>Room No. 725</p>
     <p>Faculty of Mathematical Sciences</p>
     <p>Ferdowsi Univ. of Mashhad Mashhad, IRAN</p>
 
