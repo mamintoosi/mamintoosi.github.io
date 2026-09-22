@@ -7,13 +7,15 @@ nav: true
 nav_order: 6
 ---
 
+- [Machine Learning](https://fum-cs.github.io/machine-learning/), Fall 2026
+- [Deep Learning](https://fum-cs.github.io/deep-learning/), Spring 2026
 - [Data Mining](https://fum-cs.github.io/data-mining/), Spring 2025
 - [Advanced Programming](https://fum-cs.github.io/AdvProg-CPP/), Spring 2025
   - [Advanced Programming](https://fum-cs.github.io/modern-cpp/)
   - [C++ for Python Programmers](https://fum-cs.github.io/cpp4python/)
 - [Learning Theory](https://fum-cs.github.io/learning-theory/), Spring 2025
   - [Neural Networks](https://fum-cs.github.io/neural-networks/)
-  - [Machine Learning](https://fum-cs.github.io/machine-learning/)
+  - [Machine Learning](https://github.com/fum-cs/machine-learning/tree/2025-spring)
 - [Deep Learning Course](https://fum-cs.github.io/dl/), Fall 2023, 2024
 - [Data Mining](https://fum-cs.github.io/cs-bsc-dm/), Spring 2023
 - [Computer Workshop II](https://fum-cs.github.io/cw2/), Fall 2023
