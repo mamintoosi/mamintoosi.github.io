@@ -6,7 +6,7 @@ subtitle: <a href='https://prof.um.ac.ir/m.amintoosi/about.html'>Faculty of Math
 
 profile:
   align: right
-  image: mAmintoosi_1400.jpg
+  image: mAmintoosi_1405.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone: +98 3880 5678</p>
