@@ -10,7 +10,7 @@ email: m.amintoosi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mahmood Amintoosi, Associate Professor of Computer Science
 footer_text: >
-  (The site is under construction)
+  (FUM)
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: besm.ico #⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

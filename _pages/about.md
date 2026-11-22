@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://prof.um.ac.ir/m.amintoosi/about.html'>Faculty of Mathematical Sciences</a>. Ferdowsi University of Mashhad.
 
